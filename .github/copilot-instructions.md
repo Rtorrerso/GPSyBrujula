@@ -2,7 +2,7 @@
 - Project name: GPSyBrujula
 - Unity version: Unity 2021.3.11f1
 - Active game object:
-  - Name: Panel
+  - Name: Paneles
   - Tag: Untagged
-  - Layer: UI
+  - Layer: Default
 <!-- UNITY CODE ASSIST INSTRUCTIONS END -->
